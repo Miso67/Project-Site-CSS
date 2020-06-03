@@ -1,0 +1,181 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-size: 200%;
+}
+
+
+p {
+  font-family: 'Merriweather', serif;
+  font-weight: normal;
+
+
+}
+
+
+h1 {
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  color: #66BFBF;
+  line-height: 2;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #66BFBF;
+  font-size: 2.5rem
+  padding 70px;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-size: 1.712rem;
+  padding: 60px 60px 40px 60px;
+}
+
+hr {
+  border: none;
+  border-top: 10px dotted #EAF6F6;
+  padding: 50px 0 50px 0;
+  width: 5%;
+}
+
+.andrew-copyrite {
+  color: #EAF6F6;
+  font-size: 1rem;
+  position: inline-block;
+  padding-bottom: 40px;
+}
+
+.bottom-container {
+  background-color: #66BFBF;
+  display: inline-block;
+  padding-top: 20px;
+  width: 100%;
+  font-size: 1.2rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.code-skill-description {
+  font-size: 1.4rem;
+}
+
+.footer-link {
+  color:#11999E;
+  display: inline-block;
+  padding: 30px;
+  text-decoration: none;
+  margin: 10px;
+  top: 200px;
+
+  }
+
+.gaming-skill-description {
+  font-size: 1.4rem;
+}
+
+.gamepad {
+  float: right;
+  height: 300px;
+  width: 25%;
+  padding: 40px 40px 0 40px;
+  position: relative;
+  margin-right: 30px;
+}
+
+.love-video-games {
+  width: 40%;
+  position: relative;
+  font-size: 1.4rem;
+  padding: 50px 550px 10px 550px;
+}
+
+.icon-attribute {
+  position: relative;
+  font-size: 1rem;
+}
+
+.intro-paragraph {
+  font-size: 1.4rem;
+  width: 25%;
+  position: relative;
+  padding: 100px 0 100px 700px;
+  line-height: 2;
+}
+
+.myButton {
+	background-color:#11999E;
+	-moz-border-radius:20px;
+	-webkit-border-radius:20px;
+	border-radius: 20px;
+	border: 2px solid #11999E;
+	display:inline-block;
+	cursor: pointer;
+	color: #ffffff;
+	font-family: monospace;
+	font-size: 2.148rem;
+	padding: 18px 35px;
+	text-decoration:none;
+	text-shadow: 0px 1px 0px #2f6627;
+  position: relatives;
+  margin: 50px 100px 200px 50px;
+}
+
+
+}
+.myButton:hover {
+	background-color:#11999E;
+}
+
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+.pic {
+  margin: 50px;
+  height: 300px;
+  width: 300px;
+}
+
+.programmer {
+  font-size: 2.5rem;
+  color: #66BFBF;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.skill-row {
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-container {
+  background-color: #cceabb;
+  position: relative;
+  padding-top: 100px;
+}
+
+.web-development {
+  float: left;
+  margin-right: 30px;
+  width: 25%;
+}
